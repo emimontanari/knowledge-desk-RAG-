@@ -1,0 +1,9 @@
+[project]
+name = "knowledge-desk"
+version = "0.1.0"
+description = "An inspectable retrieval-first RAG learning project"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.uv]
+package = false
